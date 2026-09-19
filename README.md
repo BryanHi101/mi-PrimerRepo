@@ -6,9 +6,3 @@ mi primera contribucion local para github
 un commit mas desde github
 
 una actualizacion mas
-
-
-este es el intento de git pull nr 1
-
-
-este es el intento de git push nr 1
